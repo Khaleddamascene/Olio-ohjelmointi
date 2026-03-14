@@ -42,6 +42,7 @@ public class NoteController {
         contentArea.clear();
     }
 
+
     @FXML
     private void handleDeleteNote() {
         Note selected = notesListView.getSelectionModel().getSelectedItem();

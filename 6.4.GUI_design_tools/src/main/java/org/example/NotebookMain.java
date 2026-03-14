@@ -5,4 +5,5 @@ public class NotebookMain {
         View.NotebookView.launch(View.NotebookView.class);
 
     }
+
 }

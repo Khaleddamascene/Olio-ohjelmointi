@@ -1,5 +1,6 @@
 Assignment: A notebook application
-Design and implement a JavaFX application using the MVC (Model-View-Controller) pattern, utilizing SceneBuilder and FXML. The goal is to create a simple note-taking application with the following features:
+Design and implement a JavaFX application using the MVC (Model-View-Controller) pattern, utilizing SceneBuilder and FXML. The goal is to create 
+a simple note-taking application with the following features:
 
 The application should have a graphical user interface (GUI) created in SceneBuilder, consisting of the following elements:
 A TextArea where users can write their notes.
